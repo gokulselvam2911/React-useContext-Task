@@ -4,9 +4,11 @@ This project is designed to demonstrate the use of React's Context API to manage
 
 ## Preview
 
-[![Landing Page Preview]()]()
+[![Landing Page Preview](https://github.com/gokulselvam2911/React-useContext-Task/blob/main/src/assets/home_page.png)](https://react-usecontext-shoppingcart.netlify.app/)
 
-**[View Live Preview]()**
+[![Landing Page Preview](https://github.com/gokulselvam2911/React-useContext-Task/blob/main/src/assets/cart_page.png)]([https://react-usecontext-shoppingcart.netlify.app/](https://react-usecontext-shoppingcart.netlify.app/cart))
+
+**[View Live Preview](https://react-usecontext-shoppingcart.netlify.app/)**
 
 ## Project Overview
 
@@ -31,4 +33,4 @@ The application fetches product data from a JSON file and allows users to add it
 
 The application is deployed on Netlify. You can view the live version of the application by visiting the following link:
 
-[Live Application]()
+[Live Application](https://react-usecontext-shoppingcart.netlify.app/)
