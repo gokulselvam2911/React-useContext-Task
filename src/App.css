@@ -1,0 +1,10 @@
+.app-background {
+    background-color: #1182f4; /* Light grayish background */
+    min-height: 100vh; /* Ensure it covers the entire page */
+}
+/* App.css */
+.card-img-top {
+    width: 100%; /* Make the image take full width of the card */
+    height: 200px; /* Set a fixed height for all images */
+    object-fit: cover; /* Ensures the image fits the container while maintaining aspect ratio */
+}
