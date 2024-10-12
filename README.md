@@ -6,7 +6,7 @@ This project is designed to demonstrate the use of React's Context API to manage
 
 [![Landing Page Preview](https://github.com/gokulselvam2911/React-useContext-Task/blob/main/src/assets/home_page.png)](https://react-usecontext-shoppingcart.netlify.app/)
 
-[![Landing Page Preview](https://github.com/gokulselvam2911/React-useContext-Task/blob/main/src/assets/cart_page.png)]([https://react-usecontext-shoppingcart.netlify.app/](https://react-usecontext-shoppingcart.netlify.app/cart))
+[![Landing Page Preview](https://github.com/gokulselvam2911/React-useContext-Task/blob/main/src/assets/cart_page.png)](https://react-usecontext-shoppingcart.netlify.app/cart))
 
 **[View Live Preview](https://react-usecontext-shoppingcart.netlify.app/)**
 
